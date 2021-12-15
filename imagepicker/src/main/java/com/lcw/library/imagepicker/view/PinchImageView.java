@@ -22,7 +22,7 @@ import java.util.Queue;
  * Time: 下午5:29
  * Email: lichenwei.me@foxmail.com
  */
-public class PinchImageView extends android.support.v7.widget.AppCompatImageView {
+public class PinchImageView extends androidx.appcompat.widget.AppCompatImageView {
 
     ////////////////////////////////配置参数////////////////////////////////
 

@@ -1,7 +1,7 @@
 package com.lcw.library.imagepicker.view;
 
 import android.content.Context;
-import android.support.annotation.Nullable;
+import androidx.annotation.Nullable;
 import android.util.AttributeSet;
 
 /**
@@ -11,7 +11,7 @@ import android.util.AttributeSet;
  * Time: 下午10:12
  * Email: lichenwei.me@foxmail.com
  */
-public class SquareImageView extends android.support.v7.widget.AppCompatImageView {
+public class SquareImageView extends androidx.appcompat.widget.AppCompatImageView {
 
     public SquareImageView(Context context) {
         this(context, null);
